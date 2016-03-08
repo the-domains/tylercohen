@@ -1,0 +1,28 @@
+name: TylerCohen
+favicon: null
+layout_spectrum: 0.22093829070217907
+typography_spectrum: 0.2662210406269878
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7013655435293913
+  lightness: 0.9337802492082119
+  saturation: 0.10003271140158176
+  rhythmicContrast: 0.9507251246832311
+purpose: []
